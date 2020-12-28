@@ -1,0 +1,22 @@
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\bin\Debug\Project Notepad.exe.config
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\bin\Debug\Project Notepad.exe
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\bin\Debug\Project Notepad.pdb
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\obj\Debug\Project_Notepad.Form1.resources
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\obj\Debug\Project_Notepad.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.exe
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.pdb
+C:\Users\ASUS\source\repos\Project Notepad\Project Notepad\obj\Debug\Project_Notepad.Resources.resources
+E:\source\repos\Project Notepad\Project Notepad\bin\Debug\Project Notepad.exe.config
+E:\source\repos\Project Notepad\Project Notepad\bin\Debug\Project Notepad.exe
+E:\source\repos\Project Notepad\Project Notepad\bin\Debug\Project Notepad.pdb
+E:\source\repos\Project Notepad\Project Notepad\obj\Debug\Project_Notepad.Form1.resources
+E:\source\repos\Project Notepad\Project Notepad\obj\Debug\Project_Notepad.Properties.Resources.resources
+E:\source\repos\Project Notepad\Project Notepad\obj\Debug\Project_Notepad.Resources.resources
+E:\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.csproj.GenerateResource.cache
+E:\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.csproj.CoreCompileInputs.cache
+E:\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.exe
+E:\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.pdb
+E:\source\repos\Project Notepad\Project Notepad\obj\Debug\Project Notepad.csprojAssemblyReference.cache
